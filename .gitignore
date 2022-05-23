@@ -169,3 +169,7 @@ dist
 # wrangler project
 
 .dev.vars
+
+# others
+
+.DS_Store
