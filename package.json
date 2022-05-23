@@ -1,0 +1,11 @@
+{
+  "name": "gh-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wrangler dev --local",
+    "publish": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "2.0.6"
+  }
+}

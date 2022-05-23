@@ -1,0 +1,6 @@
+name = "gh-proxy"
+main = "src/index.js"
+compatibility_date = "2022-05-23"
+
+[vars]
+ROOT_GH = "https://cheeaun.github.io"
